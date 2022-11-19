@@ -5,6 +5,7 @@
 {"url": "clan://localhost/JS/XBiu.txt","name":"XBiu线"},
 {"url": "clan://localhost/JS/py.txt","name":"py线"},
 {"url": "clan://localhost/JS/js.txt","name":"js线"},
+{"url": "clan://localhost/JS/qj.txt","name":"巧计本地线"},
 
 {"url": "clan://localhost/TVBox/lib/无忧.json","name":"👍🏻无忧专线"},
 {"url": "clan://localhost/TVBox/lib/弯弯.txt","name":"🍇弯弯线路"},
