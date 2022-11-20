@@ -1,11 +1,11 @@
-﻿{"urls": [
-{"url": "https://notabug.org/lTV/C/raw/master/Quan.txt","name":"notabug线"},
-{"url": "https://notabug.org/lTV/C/raw/master/jar.txt","name":"jar线"},
-{"url": "https://notabug.org/lTV/C/raw/master/json.txt","name":"json线"},
-{"url": "https://notabug.org/lTV/C/raw/master/XBiu.txt","name":"XBiu线"},
-{"url": "https://notabug.org/lTV/C/raw/master/py.txt","name":"py线"},
-{"url": "https://notabug.org/lTV/C/raw/master/js.txt","name":"js线"},
-{"url": "https://notabug.org/lTV/C/raw/master/qj.txt","name":"巧计下载线"},
+{"urls": [
+{"url": "https://notabug.org/lTV/N/raw/master/Quan.txt","name":"notabug线"},
+{"url": "https://notabug.org/lTV/N/raw/master/jar.txt","name":"jar线"},
+{"url": "https://notabug.org/lTV/N/raw/master/json.txt","name":"json线"},
+{"url": "https://notabug.org/lTV/N/raw/master/XBiu.txt","name":"XBiu线"},
+{"url": "https://notabug.org/lTV/N/raw/master/py.txt","name":"py线"},
+{"url": "https://notabug.org/lTV/N/raw/master/js.txt","name":"js线"},
+{"url": "https://notabug.org/lTV/N/raw/master/qj.txt","name":"巧计下载线"},
 
 {"url":"http://pandown.pro/tvbox/tvbox.json","name":"巧计线 网络开始"},
 {"url":"http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt","name":"公益提取线"},
