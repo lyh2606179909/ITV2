@@ -1,4 +1,4 @@
-﻿{
+{
     "spider": "http://rl1eetffv.bkt.clouddn.com/qj1119.jar;md5;c5b6afae170c32d8725afa95b3619110",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
