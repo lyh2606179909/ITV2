@@ -15,6 +15,7 @@
 {"key": "SPQQ","name": "QQ","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "SPIQY","name": "IQIYI","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "SPMGTV","name": "MGTV","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key": "csp_xb_快看", "name": "🎴快看影视", "type": 3,"api": "csp_XBiu", "searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "http://www.kuaikanys.net/s/{cateId}/page/{catePg}.html"},
 {"key": "csp_xb_aikan ","name": " 💠爱看影视💠(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"},	  
 {"key": "csp_xb555","name": "💠555影视💠(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.555dy.vip/vodtype/{cateId}{year}.html"},

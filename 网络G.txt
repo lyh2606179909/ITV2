@@ -1,12 +1,14 @@
-﻿{"urls": [
-{"url": "https://raw.githubusercontent.com/manmandebaba/ITV/main/Quan.txt","name":"Github线"},
-{"url": "https://raw.githubusercontent.com/manmandebaba/ITV/main/jar.txt","name":"jar线"},
-{"url": "https://raw.githubusercontent.com/manmandebaba/ITV/main/json.txt","name":"json线"},
-{"url": "https://raw.githubusercontent.com/manmandebaba/ITV/main/XBiu.txt","name":"XBiu线"},
-{"url": "https://raw.githubusercontent.com/manmandebaba/ITV/main/py.txt","name":"py线"},
-{"url": "https://raw.githubusercontent.com/manmandebaba/ITV/main/js.txt","name":"js线"},
+{"urls": [
+{"url": "https://ghproxy.com/https://raw.githubusercontent.com/manmandebaba/ITV/main/Quan.txt","name":"Github线"},
+{"url": "https://ghproxy.com/https://raw.githubusercontent.com/manmandebaba/ITV/main/jar.txt","name":"jar线"},
+{"url": "https://ghproxy.com/https://raw.githubusercontent.com/manmandebaba/ITV/main/json.txt","name":"json线"},
+{"url": "https://ghproxy.com/https://raw.githubusercontent.com/manmandebaba/ITV/main/XBiu.txt","name":"XBiu线"},
+{"url": "https://ghproxy.com/https://raw.githubusercontent.com/manmandebaba/ITV/main/py.txt","name":"py线"},
+{"url": "https://ghproxy.com/https://raw.githubusercontent.com/manmandebaba/ITV/main/js.txt","name":"js线"},
+{"url": "https://ghproxy.com/https://raw.githubusercontent.com/manmandebaba/ITV/main/qj.txt","name":"巧计线"},
 
 {"url":"http://pandown.pro/tvbox/tvbox.json","name":"巧计线 网络开始"},
+{"url":"http://我不是.肥猫.love:63","name":"肥猫线路"},
 {"url":"http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt","name":"公益提取线"},
 {"url":"http://101.34.67.237/config/3","name":"道长线"},
 {"url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json","name":"小苹果线路"},

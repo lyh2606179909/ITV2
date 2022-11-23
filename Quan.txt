@@ -14,7 +14,7 @@
 {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}],
 
 "sites": [
-{"key": "t4","name": "T4爬虫","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=b9fbd657a716432da68ef6ecfee68d2b&timeout=8", "searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_IKan",   "name":"爱看┃SP","type":3,"api":"csp_IKan"          ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🖼图图┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
