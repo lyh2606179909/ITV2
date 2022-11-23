@@ -1,8 +1,6 @@
 {"urls": [
 {"url": "clan://localhost/JS/Quan.txt","name":"Quan线"},
-{"url": "clan://localhost/JS/jar.txt","name":"jar线"},
-{"url": "clan://localhost/JS/json.txt","name":"json线"},
-{"url": "clan://localhost/JS/XBiu.txt","name":"XBiu线"},
+{"url": "clan://localhost/JS/Qjar.txt","name":"Qjar线"},
 {"url": "clan://localhost/JS/py.txt","name":"py线"},
 {"url": "clan://localhost/JS/js.txt","name":"js线"},
 {"url": "clan://localhost/JS/qj.txt","name":"巧计本地线"},
